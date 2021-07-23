@@ -3,7 +3,7 @@ public class Dog {
     //Variables
     String color;
     String name;
-    int age = 5;
+    int age = 10;
 
     //Methods
     void Barks()
